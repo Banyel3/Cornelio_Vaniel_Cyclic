@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1750303137 source:q:\code\cpp\cornelio_vaniel_cyclic\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<limits>
+	<string>
+
